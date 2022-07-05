@@ -5,9 +5,6 @@
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) -->
 
 # **Advanced Node**
-
-[![alt text](./public/img/logo-course.jpeg "Link para o treinamento")](https://www.udemy.com/course/nodejs-avancado/?referralCode=AF51096F87A7A9A81C5C)
-
 ---
 
 ## [**Link para o curso completo**](https://www.udemy.com/course/nodejs-avancado/?referralCode=AF51096F87A7A9A81C5C)
